@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MinimalWeather.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="primeraEjecucion" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="tipoUbicacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="ciudad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">null</Value>
+    </Setting>
+    <Setting Name="unidadTemperatura" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c</Value>
+    </Setting>
+    <Setting Name="unidadViento" Type="System.String" Scope="User">
+      <Value Profile="(Default)">km/h</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
